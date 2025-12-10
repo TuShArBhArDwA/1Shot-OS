@@ -293,28 +293,27 @@ Implementing alternative page replacement algo helps eliminate Belady’s Anomal
 
 ---
 
-## 📢 Stay Connected!
+## Sponsor
 
-Follow me for more 1-shot revisions and tips to crack jobs & internships like this! 🚀  
+If you find this helpful, consider supporting me:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)  
-💬 [Topmate](https://topmate.io/tusharbhardwaj)  
-🌐 [Portfolio](https://tushar-bhardwaj.vercel.app/)  
+- **Sponsor Me:** [Buy Me a Coffee!](https://github.com/sponsors/TuShArBhArDwA)
 
+---
 
+## License
+- This project is licensed under the [MIT License](LICENSE).
 
+---
 
+## Stay Connected!
 
+Follow me for more 1-shot revisions and tips to crack jobs & internships like this! 
 
-
-
-
-
-
-
-
-
-
-
-
+- **Meet T-Bot** - [Discover My Work](https://t-bot-blush.vercel.app/)
+- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
+- **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
+- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
+- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
+- **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com)
 
